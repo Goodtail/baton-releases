@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Baton</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 24 Jul 2026 00:35:42 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.1.0/Baton-0.1.0.zip" length="13201406" type="application/octet-stream" sparkle:edSignature="cmddSRTB2vVS1PvLWAzrVUrgzb8e4jXP8OaH6VaYxGzGsHaKyIrXsOS0D7T35owGJsAT19Wy8FhT5EzBrN2ECQ=="/>
+        </item>
+    </channel>
+</rss>
