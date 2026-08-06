@@ -3,20 +3,21 @@
     <channel>
         <title>Baton</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Tue, 28 Jul 2026 17:35:13 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Thu, 06 Aug 2026 15:28:08 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.1.1/Baton-0.1.1.zip" length="13323958" type="application/octet-stream" sparkle:edSignature="zRpDLueb1lfMVES73ySTmHwTzT0HI6svTtWO+sqINbzzsWr9iqrW1/kMovCYsakOWnUT7R1rLM4Kvo3GJmpECA=="/>
+            <enclosure url="https://github.com/Goodtail/Baton/releases/download/v0.1.2/Baton-0.1.2.zip" length="13237029" type="application/octet-stream" sparkle:edSignature="lTELNMnjgRCIrhXziCBaIpPKTAlTJDk8ic/u95vO8ruytNWJYbgOxnqtC4hUB+cLF2TA2AdB5vu7tIYA5vbwAw=="/>
         </item>
         <item>
             <title>0.1.0</title>
-            <pubDate>Fri, 24 Jul 2026 00:35:42 +0900</pubDate>
+            <pubDate>Wed, 22 Jul 2026 21:49:00 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.1.0/Baton-0.1.0.zip" length="13201406" type="application/octet-stream" sparkle:edSignature="cmddSRTB2vVS1PvLWAzrVUrgzb8e4jXP8OaH6VaYxGzGsHaKyIrXsOS0D7T35owGJsAT19Wy8FhT5EzBrN2ECQ=="/>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Goodtail/Baton/releases/download/v0.1.0/Baton-0.1.0.zip" length="12666562" type="application/octet-stream" sparkle:edSignature="rfnDJDADNCI0YDrWOJqRYpqt8SzIZafzJKNHnlAOEcfJwLwiJfrEdsIUT7hNyxcGnp7qzr7A6EZ1oeDbhymFAA=="/>
         </item>
     </channel>
 </rss>
