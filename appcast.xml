@@ -3,6 +3,14 @@
     <channel>
         <title>Baton</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Mon, 21 Sep 2026 06:47:10 +0900</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.2.3/Baton-0.2.3.zip" length="14421201" type="application/octet-stream" sparkle:edSignature="c5I/ACiyv5dFc67vh0ADweLQNsFT4WJr5Iwz/nGdwrOnEHeN88/MJY6Mp5RTjlqr/0rEJkmMTgBtc4IKhT7iCA=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Wed, 09 Sep 2026 16:39:37 +0900</pubDate>
             <sparkle:version>9</sparkle:version>
