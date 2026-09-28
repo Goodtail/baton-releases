@@ -3,6 +3,14 @@
     <channel>
         <title>Baton</title>
         <item>
+            <title>0.2.6</title>
+            <pubDate>Mon, 28 Sep 2026 15:59:42 +0900</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.2.6/Baton-0.2.6.zip" length="14553199" type="application/octet-stream" sparkle:edSignature="iX5QgmZtmMvc6OptRlD6QcpbLS1fE7hp4mfPmqxb4EMTqnzvKdGa86qDSQ/6L6oR7uVF2LswQHBg+ETRcztYCA=="/>
+        </item>
+        <item>
             <title>0.2.5</title>
             <pubDate>Tue, 22 Sep 2026 02:32:14 +0900</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.2.4/Baton-0.2.4.zip" length="14547452" type="application/octet-stream" sparkle:edSignature="tBUhCnO2VV9bEnUwpXCK4A6GCfbqLM9c4tHQcL1LTpTE0bSbyS/SkbNzXDBYZHpcOdGbT3AMbQzAhNQb6177Aw=="/>
-        </item>
-        <item>
-            <title>0.2.3</title>
-            <pubDate>Mon, 21 Sep 2026 06:47:10 +0900</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Goodtail/baton-releases/releases/download/v0.2.3/Baton-0.2.3.zip" length="14421201" type="application/octet-stream" sparkle:edSignature="c5I/ACiyv5dFc67vh0ADweLQNsFT4WJr5Iwz/nGdwrOnEHeN88/MJY6Mp5RTjlqr/0rEJkmMTgBtc4IKhT7iCA=="/>
         </item>
     </channel>
 </rss>
